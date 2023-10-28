@@ -1,0 +1,21 @@
+##simple calculations
+#addition
+5+8
+
+#subtraction
+11-4
+
+#multiplication
+3*2
+
+#division
+30/6
+
+#exponential
+3**4
+
+#modulo
+7%28
+
+#types of data types (
+type(var)
